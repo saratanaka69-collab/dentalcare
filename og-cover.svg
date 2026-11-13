@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071B2E"/><stop offset="1" stop-color="#102A43"/></linearGradient><radialGradient id="glow" cx="75%" cy="40%" r="45%"><stop stop-color="#57C7E8" stop-opacity=".8"/><stop offset="1" stop-color="#57C7E8" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#glow)"/>
+  <g fill="none" stroke="#57C7E8" stroke-opacity=".45"><circle cx="910" cy="300" r="200"/><circle cx="910" cy="300" r="152"/><circle cx="910" cy="300" r="238"/></g>
+  <path d="M845 180c-38 21-44 75-25 125l28 83c7 19 23 18 31-1l18-70 21 70c8 19 24 20 31 1l28-83c19-50 13-104-25-125-20-11-41 1-62 15-21-14-42-26-62-15Z" fill="#F7FAFC" opacity=".97"/>
+  <path d="M867 386c38 27 75 27 113 0" fill="none" stroke="#57C7E8" stroke-width="6" stroke-linecap="round"/>
+  <text x="84" y="255" fill="#57C7E8" font-family="Arial, sans-serif" font-size="24" letter-spacing="7">DENTALCARE</text>
+  <text x="84" y="338" fill="#fff" font-family="Arial, sans-serif" font-size="62" font-weight="700">Votre sourire,</text>
+  <text x="84" y="414" fill="#fff" font-family="Arial, sans-serif" font-size="62" font-weight="700">notre priorité.</text>
+</svg>
